@@ -9,7 +9,7 @@ AegisAI is a multi-agent conversational system built using Google's Agent Develo
 
 ## 🚀 Live Demo
 
-> [Access AegisAI on Cloud Run »]((https://aegis-med-agent-913993225840.us-central1.run.app/))  
+> [Access AegisAI on Cloud Run »](https://aegis-med-agent-913993225840.us-central1.run.app/)
 > Or test locally: `adk web`
 
 ---
