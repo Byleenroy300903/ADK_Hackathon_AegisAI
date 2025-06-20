@@ -24,6 +24,12 @@ AegisAI is a multi-agent conversational system built using Google's Agent Develo
 - 🔐 Secure `.env` management of API keys
 
 ---
+## 🧠 Architecture Diagram
+
+Here's a detailed overview of AegisAI's system architecture, including all sub-agents and integrated Google Cloud services.
+
+![AegisAI Architecture](./aegisai_full_architecture.png)
+
 
 ## 🎯 Use Cases
 
