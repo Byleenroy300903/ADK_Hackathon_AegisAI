@@ -41,20 +41,19 @@ Here's a detailed overview of AegisAI's system architecture, including all sub-a
 
 ---
 
-## 📂 Project Structure
+## 🗂️ Project Structure
 
+```bash
 ADKStarterKit/
-│
-├── medical_agents/ # Root agent directory
-│ ├── sub_agents/ # Contains modular sub-agents
-│ ├── shared_libraries/ # Shared tools/functions
-│ └── tools/ # Custom agent tools
-├── .env # Environment variables (sensitive)
-├── Dockerfile # For containerization
-└── README.md # Project documentation
+├── medical_agents/         # Root agent directory
+│   ├── sub_agents/         # Contains modular sub-agents
+│   ├── shared_libraries/   # Shared tools and functions
+│   └── tools/              # Custom agent tools
+├── .env                    # Environment variables (sensitive)
+├── Dockerfile              # For containerization
+└── README.md               # Project documentation
+```
 
-
----
 
 ## ⚙️ Built With
 
